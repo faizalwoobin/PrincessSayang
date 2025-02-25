@@ -24,11 +24,11 @@ const quotes = {
         { text: "Baby, you don’t have to talk about it if you don’t want to. But if you do, I’m all ears. No judgment, no pressure—just love.", image: "images/angry5.jpg" }
     ],
     sad: [
-        { text: "I wish I could hug you right now, my love. You don’t have to go through this alone.", image: "images/sad1.jpg" },
-        { text: "Even in your sadness, you are the most beautiful person in my world, sayang.", image: "images/sad2.jpg" },
-        { text: "Cry if you need to, baby. I’ll be here to wipe your tears away.", image: "images/sad3.jpg" },
-        { text: "You’re stronger than you think, my princess. And I believe in you.", image: "images/sad4.jpg" },
-        { text: "No matter how hard today feels, I will always stand beside you, hunny munchkin.", image: "images/sad5.jpg" },
+        { text: "Sayang, I know today feels heavy. But even in your quietest, saddest moments, I need you to know—you are still loved. You are still enough.", image: "images/sad1.jpg" },
+        { text: "Baby, I wish I could take away your sadness, but since I can’t, I’ll just remind you that I love you. I’m here, I see you, and I’m not going anywhere.", image: "images/sad2.jpg" },
+        { text: "Princess, you don’t have to carry this alone. Whatever it is, I’m here to hold it with you.", image: "images/sad3.jpg" },
+        { text: "Hunny, even in sadness, you are still the person I love most in this world. Nothing changes that.", image: "images/sad4.jpg" },
+        { text: "Sayang, you don’t have to be okay right now. Just let yourself feel, and I’ll be right here, holding space for you.", image: "images/sad5.jpg" },
         { text: "I wish I could hug you right now, my love. You don’t have to go through this alone.", image: "images/sad1.jpg" },
         { text: "Even in your sadness, you are the most beautiful person in my world, sayang.", image: "images/sad2.jpg" },
         { text: "Cry if you need to, baby. I’ll be here to wipe your tears away.", image: "images/sad3.jpg" },

@@ -1,10 +1,15 @@
 const quotes = {
     happy: [
-        { text: "Seeing you happy makes my whole world brighter, my love.", image: "images/happy1.jpg" },
-        { text: "Your smile is my favorite thing in the universe, princess.", image: "images/happy2.jpg" },
-        { text: "Hunny munchkin, your laughter is the sweetest melody to my ears.", image: "images/happy3.jpg" },
-        { text: "You deserve all the happiness in the world, my baby.", image: "images/happy4.jpg" },
-        { text: "Your joy is contagious, and I’m lucky to have you, sayang.", image: "images/happy5.jpg" }
+        { text: "Seeing you happy, sayang, is like the world suddenly making sense. Every little sparkle in your eyes, every tiny curve of your smile—it fills my heart in ways I can't even put into words. I love watching you glow", image: "images/happy1.jpg" },
+        { text: "Baby, do you know how much your happiness means to me? It’s like the sun shining through after the rain, warm and golden. No matter what happens, I want you to have more moments like this. And if I can be a part of making them happen, that would be my greatest joy", image: "images/happy2.jpg" },
+        { text: "Hunny munchkin, every time you laugh, it’s like my heart learns a new way to beat. I never get tired of seeing you like this, so full of life, so effortlessly beautiful. If I could, I’d pause time just to stay in this moment with you forever.", image: "images/happy3.jpg" },
+        { text: "Princess, your happiness is so contagious. I swear, when you're happy, the whole world feels lighter. I hope you always remember that you deserve this joy, not just in small doses, but endlessly.", image: "images/happy4.jpg" },
+        { text: "Sayang, I know happiness can be fleeting, but in this moment, you are shining, and I need you to know—I will always, always love seeing you like this.", image: "images/happy5.jpg" },
+        { text: "Baby, the way you light up when you're happy—it’s magic. If I could, I’d bottle up this feeling and give it to you whenever you needed a reminder of how wonderful life can be", image: "images/happy1.jpg" },
+        { text: "Hunny, I hope you know that you being happy isn’t just something small to me. It’s everything. It makes my day, my week, my world", image: "images/happy2.jpg" },
+        { text: "Princess, if I had to choose between having everything in the world or just seeing you happy every day, I’d choose you. Every time. Without hesitation.", image: "images/happy3.jpg" },
+        { text: "Sayang, if happiness had a face, it would look like you right now. I wish I could capture this moment forever because seeing you like this is the purest kind of love I know.", image: "images/happy4.jpg" },
+        { text: "Baby, never doubt for a second that you deserve to feel this way all the time. And even when the happiness fades, I’ll be right here, loving you just as much.", image: "images/happy5.jpg" }
     ],
     angry: [
         { text: "It’s okay to be angry, my love. I’m always here to hold you tight.", image: "images/angry1.jpg" },

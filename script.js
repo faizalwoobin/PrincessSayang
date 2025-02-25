@@ -12,11 +12,16 @@ const quotes = {
         { text: "Baby, never doubt for a second that you deserve to feel this way all the time. And even when the happiness fades, I’ll be right here, loving you just as much.", image: "images/happy5.jpg" }
     ],
     angry: [
-        { text: "It’s okay to be angry, my love. I’m always here to hold you tight.", image: "images/angry1.jpg" },
-        { text: "Even in your stormiest moments, you are my sunshine, sayang.", image: "images/angry2.jpg" },
-        { text: "No matter how upset you are, I will love you just the same.", image: "images/angry3.jpg" },
-        { text: "Take a deep breath, my princess. I'm here with you, always.", image: "images/angry4.jpg" },
-        { text: "I’m not going anywhere, hunny. You can always lean on me.", image: "images/angry5.jpg" }
+        { text: "Sayang, I know you’re upset, and I just want you to know—it’s okay. You don’t have to explain yourself, you don’t have to be okay right now. Just know that I’m here, however you need me.", image: "images/angry1.jpg" },
+        { text: "Baby, whatever’s making you angry, I want you to know that your feelings are valid. You’re allowed to be upset, to feel what you feel, and you don’t have to go through it alone.", image: "images/angry2.jpg" },
+        { text: "Princess, I know it’s frustrating. I know it feels unfair. And I won’t tell you to just ‘let it go’—instead, I’ll stand beside you, ready to listen, ready to support you however you need.", image: "images/angry3.jpg" },
+        { text: "Hunny, no matter how stormy your heart feels right now, I hope you never forget that you are still so loved, so cherished, and you don’t have to carry this frustration alone.", image: "images/angry4.jpg" },
+        { text: "Sayang, I don’t want to fix or change how you feel. I just want to be here with you, however you need me, for as long as you need.", image: "images/angry5.jpg" },
+        { text: "Baby, when you’re mad, it doesn’t make you any less lovable. It doesn’t make you any less wonderful. I love you in every mood, in every emotion.", image: "images/angry1.jpg" },
+        { text: "Princess, I know you’re upset right now, and that’s okay. You don’t have to push it down or pretend you’re fine. I see you, I hear you, and I’m here.", image: "images/angry2.jpg" },
+        { text: "Hunny, I wish I could take away whatever’s making you feel this way, but since I can’t, just know you don’t have to go through this alone.", image: "images/angry3.jpg" },
+        { text: "Sayang, no matter what, I’m still here. I still love you. And when you’re ready, I’ll be right here to hold you through it.", image: "images/angry4.jpg" },
+        { text: "Baby, you don’t have to talk about it if you don’t want to. But if you do, I’m all ears. No judgment, no pressure—just love.", image: "images/angry5.jpg" }
     ],
     sad: [
         { text: "I wish I could hug you right now, my love. You don’t have to go through this alone.", image: "images/sad1.jpg" },

@@ -28,6 +28,11 @@ const quotes = {
         { text: "Even in your sadness, you are the most beautiful person in my world, sayang.", image: "images/sad2.jpg" },
         { text: "Cry if you need to, baby. I’ll be here to wipe your tears away.", image: "images/sad3.jpg" },
         { text: "You’re stronger than you think, my princess. And I believe in you.", image: "images/sad4.jpg" },
+        { text: "No matter how hard today feels, I will always stand beside you, hunny munchkin.", image: "images/sad5.jpg" },
+        { text: "I wish I could hug you right now, my love. You don’t have to go through this alone.", image: "images/sad1.jpg" },
+        { text: "Even in your sadness, you are the most beautiful person in my world, sayang.", image: "images/sad2.jpg" },
+        { text: "Cry if you need to, baby. I’ll be here to wipe your tears away.", image: "images/sad3.jpg" },
+        { text: "You’re stronger than you think, my princess. And I believe in you.", image: "images/sad4.jpg" },
         { text: "No matter how hard today feels, I will always stand beside you, hunny munchkin.", image: "images/sad5.jpg" }
     ],
     unmotivated: [
@@ -35,9 +40,19 @@ const quotes = {
         { text: "Even if you take a small step, my love, it's still progress.", image: "images/unmotivated2.jpg" },
         { text: "You are so capable, my baby. You just need to see it too.", image: "images/unmotivated3.jpg" },
         { text: "I’ll always be cheering for you, my princess, no matter what.", image: "images/unmotivated4.jpg" },
+        { text: "You don’t have to be perfect, hunny. Just do your best.", image: "images/unmotivated5.jpg" },
+        { text: "You’ve already come so far, sayang. Keep going, I believe in you!", image: "images/unmotivated1.jpg" },
+        { text: "Even if you take a small step, my love, it's still progress.", image: "images/unmotivated2.jpg" },
+        { text: "You are so capable, my baby. You just need to see it too.", image: "images/unmotivated3.jpg" },
+        { text: "I’ll always be cheering for you, my princess, no matter what.", image: "images/unmotivated4.jpg" },
         { text: "You don’t have to be perfect, hunny. Just do your best.", image: "images/unmotivated5.jpg" }
     ],
     tired: [
+        { text: "I know you’re tired, my love. Let me be your comfort.", image: "images/tired1.jpg" },
+        { text: "You’ve worked so hard, sayang. I appreciate you so much.", image: "images/tired2.jpg" },
+        { text: "No matter how exhausted you feel, I’ll always be here to support you, baby.", image: "images/tired3.jpg" },
+        { text: "Take a moment for yourself, my princess. You deserve it.", image: "images/tired4.jpg" },
+        { text: "Even superheroes need to rest, hunny munchkin. And you’re my superhero.", image: "images/tired5.jpg" },
         { text: "I know you’re tired, my love. Let me be your comfort.", image: "images/tired1.jpg" },
         { text: "You’ve worked so hard, sayang. I appreciate you so much.", image: "images/tired2.jpg" },
         { text: "No matter how exhausted you feel, I’ll always be here to support you, baby.", image: "images/tired3.jpg" },

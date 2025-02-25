@@ -81,7 +81,7 @@ function resetPage() {
 
 // Auto-play background music
 window.onload = function() {
-    var music = document.getElementById("background-music.mp3");
+    var music = document.getElementById("background-music");
     music.volume = 0.5; // Adjust volume (0.0 to 1.0)
     music.play().catch(error => {
         console.log("Music autoplay blocked, user needs to interact.");

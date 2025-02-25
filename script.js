@@ -48,16 +48,16 @@ const quotes = {
         { text: "You don’t have to be perfect, hunny. Just do your best.", image: "images/unmotivated5.jpg" }
     ],
     tired: [
-        { text: "I know you’re tired, my love. Let me be your comfort.", image: "images/tired1.jpg" },
-        { text: "You’ve worked so hard, sayang. I appreciate you so much.", image: "images/tired2.jpg" },
-        { text: "No matter how exhausted you feel, I’ll always be here to support you, baby.", image: "images/tired3.jpg" },
-        { text: "Take a moment for yourself, my princess. You deserve it.", image: "images/tired4.jpg" },
-        { text: "Even superheroes need to rest, hunny munchkin. And you’re my superhero.", image: "images/tired5.jpg" },
-        { text: "I know you’re tired, my love. Let me be your comfort.", image: "images/tired1.jpg" },
-        { text: "You’ve worked so hard, sayang. I appreciate you so much.", image: "images/tired2.jpg" },
-        { text: "No matter how exhausted you feel, I’ll always be here to support you, baby.", image: "images/tired3.jpg" },
-        { text: "Take a moment for yourself, my princess. You deserve it.", image: "images/tired4.jpg" },
-        { text: "Even superheroes need to rest, hunny munchkin. And you’re my superhero.", image: "images/tired5.jpg" }
+        { text: "Sayang, I know you’re tired, but I need you to know—I see how much you’re doing, and I appreciate you more than words can say.", image: "images/tired1.jpg" },
+        { text: "Baby, I wish I could take your tiredness away. Since I can’t, I’ll just remind you that you are doing amazing, and I love you in every moment, even the ones where you’re exhausted.", image: "images/tired2.jpg" },
+        { text: "Princess, even when you’re drained, even when you feel like you have nothing left to give, you are still enough. Always.", image: "images/tired3.jpg" },
+        { text: "Hunny, I love you in all versions of you—the energetic you, the tired you, the ‘running on fumes’ you. No matter what, my love stays the same.", image: "images/tired4.jpg" },
+        { text: "Sayang, just breathe. I know today has been long, but you’re getting through it, one moment at a time. I’m proud of you.", image: "images/tired5.jpg" },
+        { text: "Baby, you are allowed to be tired. You don’t have to push yourself beyond your limits. You are still strong, even in rest.", image: "images/tired1.jpg" },
+        { text: "Princess, I wish I could hold all your tiredness for you and make it disappear. Since I can’t, I’ll just be here, loving you, supporting you, reminding you that you’re never alone in this.", image: "images/tired2.jpg" },
+        { text: "Hunny munchkin, even on days where everything feels too much, I hope you know—you are doing enough. You don’t have to prove anything to anyone, least of all to me. I love you for who you are, not just for what you do.", image: "images/tired3.jpg" },
+        { text: "Sayang, I know you’re tired, but even in your exhaustion, you are still the most incredible person I know. No amount of tiredness could ever dim the light you carry inside you.", image: "images/tired4.jpg" },
+        { text: "Baby, if no one has told you today—I see how much effort you’re putting in. I see how hard you’re trying. And I want you to know that it’s okay to just be. No expectations, no pressure, just love.", image: "images/tired5.jpg" }
     ]
 };
 

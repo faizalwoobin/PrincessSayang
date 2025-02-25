@@ -36,11 +36,11 @@ const quotes = {
         { text: "No matter how hard today feels, I will always stand beside you, hunny munchkin.", image: "images/sad5.jpg" }
     ],
     unmotivated: [
-        { text: "You’ve already come so far, sayang. Keep going, I believe in you!", image: "images/unmotivated1.jpg" },
-        { text: "Even if you take a small step, my love, it's still progress.", image: "images/unmotivated2.jpg" },
-        { text: "You are so capable, my baby. You just need to see it too.", image: "images/unmotivated3.jpg" },
-        { text: "I’ll always be cheering for you, my princess, no matter what.", image: "images/unmotivated4.jpg" },
-        { text: "You don’t have to be perfect, hunny. Just do your best.", image: "images/unmotivated5.jpg" },
+        { text: "Sayang, you are not lazy. You are not failing. You are doing your best, and that is enough.", image: "images/unmotivated1.jpg" },
+        { text: "Baby, even when you feel stuck, you are still moving forward. I believe in you.", image: "images/unmotivated2.jpg" },
+        { text: "Princess, your worth is not measured by your productivity. You are enough, always.", image: "images/unmotivated3.jpg" },
+        { text: "Hunny, take a deep breath. You don’t have to figure everything out today.", image: "images/unmotivated4.jpg" },
+        { text: "Sayang, even small steps count. You are doing better than you think.", image: "images/unmotivated5.jpg" },
         { text: "You’ve already come so far, sayang. Keep going, I believe in you!", image: "images/unmotivated1.jpg" },
         { text: "Even if you take a small step, my love, it's still progress.", image: "images/unmotivated2.jpg" },
         { text: "You are so capable, my baby. You just need to see it too.", image: "images/unmotivated3.jpg" },
